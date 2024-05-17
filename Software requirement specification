@@ -1,0 +1,15 @@
+Introduction:
+A web site that,s used to search for available or book tables at a restaurant
+Scope:
+The website should be easy to use and selectr the table that the user wants after reviewing the details of the table and service
+Functional requirements:
+Search functionality:
+When the user searches for the table the system should give the available seats/tables for the user.
+Table details:
+When user click on a seat the system should display the details of the tables, which includes, number of members that can be seated, etc and price of the table
+Check availability:
+Then the system should show the availability of the table or show other available seats/tables
+Check review:
+Then the system should show the reviews and ratings for the table or the hotel for customer’s choice 
+Book table:
+Then the system should open the booking page so that the user books the table
